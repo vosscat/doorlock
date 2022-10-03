@@ -32,7 +32,5 @@ Allow the door to be lockpicked with `lockpick = true`
 Allow item authorisation with `items = {'key_master', 'key_lspd'}` etc.  
 
 <hr>
-<p align="center">https://youtu.be/OR9jxg5r_K0
-<img src="https://i.imgur.com/swapFgK.jpg"/></p>
 
 <p align='center'><img src="https://i.imgur.com/2Yz7Rtm.png"/></img></p>
